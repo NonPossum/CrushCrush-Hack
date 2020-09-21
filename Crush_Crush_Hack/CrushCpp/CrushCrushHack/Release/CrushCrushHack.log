@@ -1,0 +1,8 @@
+﻿  CrushCrushHack.cpp
+C:\Users\PC\source\repos\CrushCrushHack — kopia\CrushCrushHack\CrushCrushHack.cpp(41,32): warning C4101: "off5": lokalna zmienna, do której nie istnieje odwołanie
+  Trwa generowanie kodu
+  12 of 13 functions (92.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  CrushCrushHack.vcxproj -> C:\Users\PC\source\repos\CrushCrushHack — kopia\Release\CrushCrushHack.exe
